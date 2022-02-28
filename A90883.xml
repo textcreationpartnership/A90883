@@ -1,0 +1,1452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine scruples from the army: presented in a dialogue betweene a minister of the new moulded Presbytery, and a souldier of his Excellencies (formerly new-moulded, but now despised) army. Being the substance of severall discourses, of the souldiers with the ministers in divers parts of the kingdom. Wherein the doubtfulnesse of the ministers new old, or old new calling, is manifested, their compelling principle detected: the practise of souldiers, and others, exercising themselves in the Scriptures, for their mutuall edifying, justifyed. / By one of the kingdomes servants, in the army.</title>
+            <author>Pounset, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90883</idno>
+            <idno type="STC">Wing P3039B</idno>
+            <idno type="STC">Thomason E390_21</idno>
+            <idno type="STC">ESTC R201540</idno>
+            <idno type="EEBO-CITATION">99862039</idno>
+            <idno type="PROQUEST">99862039</idno>
+            <idno type="VID">114188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114188)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine scruples from the army: presented in a dialogue betweene a minister of the new moulded Presbytery, and a souldier of his Excellencies (formerly new-moulded, but now despised) army. Being the substance of severall discourses, of the souldiers with the ministers in divers parts of the kingdom. Wherein the doubtfulnesse of the ministers new old, or old new calling, is manifested, their compelling principle detected: the practise of souldiers, and others, exercising themselves in the Scriptures, for their mutuall edifying, justifyed. / By one of the kingdomes servants, in the army.</title>
+                  <author>Pounset, John.</author>
+               </titleStmt>
+               <extent>[4], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Pounset, and are to be sold at his shop, at the Hand and Bible at the lower end of Budge-Row, neere Canning-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>One of the kingdomes servants, in the army = John Pounset, who has signed "To the reader": J.P.</note>
+                  <note>Annotation on Thomason copy: "June 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114188:1" rendition="simple:additions"/>
+            <p>
+               <hi>Certaine Scruples from</hi> THE ARMY: Preſented in a DIALOGUE BETWEENE A Miniſter of the New moulded <hi>Presbytery,</hi> and a Souldier of his <hi>Excellencies</hi> (formerly New-moulded, but now deſpiſed) ARMY.</p>
+            <p>Being the Subſtance of ſeverall Diſcourſes, of the Souldiers with the Miniſters in divers parts of the Kingdom. Wherein the doubtfulneſſe of the Miniſters new old, or, old new Calling, is manifeſted, their compelling principle detected: The practiſe of Souldiers, and others, exerciſing themſelves in the Scriptures, for their mutuall edifying, juſtifyed.</p>
+            <p>
+               <hi>By one of the Kingdomes Servants, in the Army.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>REVEL 7, 1.</hi>
+               </bibl>
+               <p>And after that I ſaw foure Angels ſtand on the foure corners of the earth, holding the foure winds of the earth, that the winde ſhould not blow on the earth, neither on the Sea, neither on any tree.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>JEREM 23.1.</hi>
+               </bibl>
+               <p>Woe be unto the Paſtours that ſcatter the ſheep of my paſture, <hi>ſaith the Lord.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>REVEL. 18.24.</hi>
+               </bibl>
+               <p>And in her was found the blood of the Prophets, and of the Saints, and of all that was ſlaine upon the earth.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Pounſet,</hi> and are to be ſold at his ſhop, at the Hand and Bible at the lower end of <hi>Budge-row,</hi> neere <hi>Canning-ſtreet,</hi> 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114188:2"/>
+            <pb facs="tcp:114188:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Have preſented to thy view, the ſtate of the ſeverall differences, that have been between the <hi>Presbyteri<g ref="char:EOLhyphen"/>an Miniſters,</hi> and ſuch <hi>Souldiers</hi> of us, as have had occaſion to diſ<g ref="char:EOLhyphen"/>courſe with them, in, and about our ſeverall quarters; ſo farre as they are differences, relate<g ref="char:EOLhyphen"/>ing to ſuch Diſcourſes, as have been between us, by way of <hi>Dialogue:</hi> Wherein thou mayeſt ſee, what they chiefly blame us for: and what is our defence: we not being conſcious to our ſelves, of any juſt of<g ref="char:EOLhyphen"/>fence given by us, for which we deſerve to be con<g ref="char:EOLhyphen"/>demned by them, as men not worthy of common priviledges: I have therefore indevoured, to cleare up by the Scripture, that in thoſe things for
+<pb facs="tcp:114188:3"/>which we are accuſed by them, we have done no<g ref="char:EOLhyphen"/>thing but our duty; wherein we deſire to pleaſe God, though it diſpleaſe the great and mighty ones of the world: and indeed, my maine aime in wri<g ref="char:EOLhyphen"/>ting of this enſuing Diſcourſe, is not ſo much to clear up our own innocency, as to informe others in the Truth: that ſo I may be an inſtrument of their inlightning, which is the longing deſire of him, that in this Treatiſe hath indevoured, the glo<g ref="char:EOLhyphen"/>ry of God, and their good, which if it prove ſo, will be his greateſt joy.</p>
+            <closer>
+               <salute>Farewell,</salute>
+               <signed>Thine J.P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:114188:3"/>
+            <head>A Dialogue between a Miniſter of the New-moulded Presbytery, and a Soul<g ref="char:EOLhyphen"/>dier of his <hi>Excellencies,</hi> formerly New-moulded, but now deſpiſed ARMY.</head>
+            <sp>
+               <speaker>Presbyterian,</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Ell over-taken ſir, how farre (if I may be ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>old) doe you travell this way.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>I am going to the head Quarters at <hi>Nottingham.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>
+                  <hi>Then it ſeems you are a Souldier.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>I am ſo indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>
+                  <hi>I doe confeſſe that you Souldiers have done the Kingdome very good ſervice, but you have likewiſe done very ill ſervice, therefore wee muſt</hi> (as our Brother Love layes) <hi>reward you for the good ſervice, and puniſh you for your evill ſervice.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Sir, I pray you anſwer me two queſtions; Firſt, I pray ſir, what are you? Secondly, what is the evill we Souldiers have done, that ſo we may know wherefore we are puniſhed? for we are not conſcious to our ſelves, of any evill ſervice we have done to the State; onely we have ſome among us that are vile enough, but we doe what we can to reclaime them.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>
+                  <hi>Sir, to your queſtions I anſwer, and to your firſt, I am a Mi<g ref="char:EOLhyphen"/>niſter of Chriſt; and to your ſecond, I anſwer, it is not becauſe you have ſome vile perſons among you, for that will be, in any Army, there<g ref="char:EOLhyphen"/>fore
+<pb n="2" facs="tcp:114188:4"/>that doth not trouble us; but the evill for which you are to be pu<g ref="char:EOLhyphen"/>riſhed, is, that you have ſowed the ſeeds of error, in all the parts of the Kingdome where you have come.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>You lay you are a <hi>Miniſter of Chriſt,</hi> and for ought I yet know, it may be ſo; for I have not as yet had any great ac<g ref="char:EOLhyphen"/>quaintance with you; but whereas you ſay <hi>It is not our vile per<g ref="char:EOLhyphen"/>ſons in the Army, which troulde you, but our ſowing the ſeeds of error,</hi> that you doe intend to puniſh us for, this makes me doubt, whe<g ref="char:EOLhyphen"/>ther you are the <hi>Miniſter of Chriſt,</hi> or no: for I did never heare any of the <hi>Miniſters of Chriſt,</hi> lay that to our charge; but I have heand them bleſſe God for us, they well knowing, that we have not onely done <hi>faithfull</hi> ſervice to the ſtate, in the <hi>field,</hi> but alſo have been <hi>intraments</hi> in the Lords hand, of <hi>inlightning</hi> many people in the Land; who alſo bleſſe the Lord for us.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>
+                  <hi>This you ſay, but it is not ſo becauſe you ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I can produce many <hi>witneſſes,</hi> to confirme the truth of what I ſay, but if I could not, it were as well proved, as you have proved that <hi>wee have ſown the ſeeds of error in the Land;</hi> and doe for that deſerve to be <hi>puniſhed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>The thing is agreed on by all the Orthodox Divines of bath Kingdomes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>You ſpeak ſtrangely, as if becauſe they ſay it, it is there<g ref="char:EOLhyphen"/>fore ſo, but becauſe you would have it paſſe for a ſound proofe; you give them two titles, which are very high, that ſo the peo<g ref="char:EOLhyphen"/>ple may not queſtion it. Firſt, you ſay they are <hi>Orthodox,</hi> that ſo none need queſtion the ſoundneſſe of their judgements; and Secondly, you call them <hi>Divines,</hi> that ſo the people may look upon them as <hi>Little gods,</hi> or ſomewhat more then men, as they indeed have done, but to tell you my thoughts, I count it little better, then one of the names of <hi>Blaſpbemie,</hi> which are on the Beaſt, <hi>Revel.</hi> 17.3. and ought not to be given to any <hi>mortall crea<g ref="char:EOLhyphen"/>ture.</hi> And if it might be attributed to <hi>any,</hi> then to <hi>all</hi> the people of God, for, <hi>they all partake of the Divine nature,</hi> 2 Per. 1.4, and are, or at leaſt ought <hi>all</hi> to have a <hi>Divine imployment,</hi> (if it may be ſo called) <hi>viz.</hi> to ſearch and ſtudy the Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Then it ſeems that you would have all to preach?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I confeſſe, I would have it ſo indeed, but I pray ſir, what doe you underſtand <hi>preaching</hi> to be?</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:114188:4"/>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I doe underſtand preaching, to be the taking ſome part of Scripture, and unfolding of the ſenſe, and applying it to the people for their edifying.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Then by <hi>preaching</hi> you doe not mean ſo to preach, at the Apoſtles did, by an immediate inſpirations.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>No.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Then I ſuppoſe all men may preach ſo, <hi>viz. Read the Scriptures,</hi> and <hi>compare them</hi> together, and <hi>apply them</hi> as they ſhall be inabled, <hi>for their mutuall edification, exhortation and comfort.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>No, they may not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Why, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>For many reaſons; at firſt, they are not learned: ſecond<g ref="char:EOLhyphen"/>ly, they are not called: thirdly, if they ſhould, it would bring the prea<g ref="char:EOLhyphen"/>ching of Miniſters into contempt: for if every Souldier and Tradeſ<g ref="char:EOLhyphen"/>man, ſhould preach, and that for mothing, men will not care whether they heare us or no; therefore we have got an Ordinance to prohibit it, and deſire a penalty worſe then death annexed, to be inſticted upon thoſe that ſhall yet undertake to doe it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Theſe are notable reaſons indeed; but let us a little examine them, whether they will hold or no: Firſt you ſay, <hi>they want learning,</hi> if by <hi>Learning</hi> you mean thoſe viſible gifts, of tongues, miracles, healing &amp;c. you are as unlearned as they: if you meane by <hi>learning,</hi> the teachings of the ſpirit, they are ſo taught alſo; but if you mean by <hi>learning,</hi> the art of tongues, and the Art of Aſtronomy, or Aſtro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gie, or any of the other Arts, learned and taught in the Schooles; then I confeſſe they core ſhort of you in <hi>Learning:</hi> but I conceive, that theſe in them<g ref="char:EOLhyphen"/>ſelves conduce but little to inable a man to <hi>Preach.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>No, what ſay you to the gift: of Tongues?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I ſay it were well if you had it.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Why, have wee it not?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Can we not ſpeck divers Tongues?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Yes, by art, but not by gift.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>What is the difference?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Very much for firſt; thoſe that had the gift of tongues ſpake as the ſpirit taught them immediately: <hi>Act.</hi> 2.4. but you ſpeak as men have taught you in the Schooles: Secondly, thoſe
+<pb n="4" facs="tcp:114188:5"/>that ſpake by the gift of tongues, could ſpeak to all Nations un<g ref="char:EOLhyphen"/>der heaven if there were occaſion <hi>Act.</hi> 2.8.9, 10, 11. but if there ſhould be never ſo much need to ſpeak to drvers Nations, you could ſpeak to no more of them, than thoſe whoſe ſpeech you had learned in the Schooles: Thirdly; theſe that ſpake by the gift of tongues ſpake the cleare minde of God, in the ſeve<g ref="char:EOLhyphen"/>rall tongues, without pervertang either the one, or the other; but you (as I my ſelfe have heard) differ among your ſelves; one ſayes it is thus in the Originall, and another ſayes it is not ſo: wherein then, doe thoſe which you ſay may not preach, come ſhort of you in that learning which makes us ſpiritually know the minde of God in the Scriptures?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>They know not the originall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I think no more doe you, for I ſuppoſe you will grant, that there are at leaſt ſixteen ſeverall Greek Copies; which then is the Originall?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>What though that cannot be ſo clearly determined, yet it is ſure thoſe that know the tongues, and have learning, are better able to underſtand the minde of God in the Scriptures, then thoſe that have not learning: and ſo are more fit to preach.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>It is according as they are taught by the Spirit; for if thoſe which you call <hi>unlearned,</hi> be more <hi>learned</hi> by the Spirit then they, (though they want the other learning) are moſt able to underſtand, and therefore moſt able to make known, the minde of God to others: and let me tell you, that I think there are as many ignorant men, among thoſe you call <hi>Learned,</hi> as there is of any one ſort of men again in the Kingdome, if you compare number with number, ſo that I may ſafely conclude, that thoſe that are taught by the Spirit, whether they be learned or not learned (in you ſenſe) are the moſt fit, and able to de<g ref="char:EOLhyphen"/>clare the minde of God: and I will prove it by the Scripture, <hi>Peter</hi> and <hi>John,</hi> were <hi>unlearned, Act.</hi> 4.13. Yet able men being thus taught; and I think it will not be denyed, but among thoſe five thouſand that were, ſcattered abroad, <hi>Act.</hi> 8.1. there were unlearned men, yet <hi>they went every where preaching the word,</hi> ver 4. and God did wonderfully bleſſe their preaching <hi>ſo that a great number beleeved, and turned to the Lord thereby,</hi> Act. 11.21 Like<g ref="char:EOLhyphen"/>wiſe <hi>Stephen</hi> was one that for ought we can read, had no learn<g ref="char:EOLhyphen"/>ing,
+<pb n="5" facs="tcp:114188:5"/>but being full of the holy ſpirit, preached mightily, <hi>in<g ref="char:EOLhyphen"/>ſomuch that all his adverſaries were not able to reſiſt the ſpirit by which bee ſpake.</hi> Act. 6.10.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But</hi> Stephen <hi>was choſen into an office.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>But it was only an office to feed the poor, not to preach.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But Stephen did not preach, be did but diſpute.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>The one is but to declare the minde of God, and ſo is the other; and I know no great difference, unleſſe you think the one is a more intrenching upon your <hi>prerogative</hi> then the other.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But</hi> Paul <hi>was a man that was learned.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I confeſſe he was, but you can hardly find another among all the Diſciples of Chriſt; and I doe not well know what good it did him neither: for he made no uſe of it, in preaching the Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>How doe you know that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Hee ſayes ſo himſelfe, 1 <hi>Cor.</hi> 2.1, 2, 3, 4 5, 6. You ſee hee diſclaimes all the the wiſdome of men, and that which is taught by men, when he came to preach the Goſpell.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But doth not</hi> Peter <hi>ſay that unlearned ones wreſt the Scriptures to their owne deſtruction?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>It is true, but if hee had ment ſuch unlearned ones, as are unlearned in your ſence, it had been ſad newes to thoſe, or at leaſt to moſt of thoſe, to whom he wrot, who were <hi>the Saints ſcattred here, and there, throughout Pontus, Galatra, Cappadocia Aſia, and B thynia:</hi> alſo <hi>Peter</hi> himſelfe and his fellows muſt have been of thoſe that did wreſt the Scriptures to their owne deſtruction; and as ſad would it have beene to the people of God ever ſince, who cannot bee conceived, to bee one among five hund<g ref="char:EOLhyphen"/>red of them learned in humane arts and tongues, but if it had been ſo, that <hi>Peter</hi> had ment ſuch unlearned ones, then it would have made your diſtinction hold, between Clergy, and Layity; for then you onely, would bee the Lords inheritance.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Well for all your prating wee ſhall have a courſe taken with you; If you will not give over preaching, and meddle with your own buſineſſe, wee will have you foundly puniſhed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>That is like enough, for many of you ſchoole-men,
+<pb n="6" facs="tcp:114188:6"/>have ever been very well read in that kinde of learning, to hunt and weary, and ſuck the blood, of the harmleſſe lambs of Chriſt; Hiſtories of all ages can witneſſe it.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>It ſeems then that you count learning to bee of no uſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Yes, I will tell you of ſome uſe that it ſerves to. As firſt, that it helps to lift ſome of you up high above your bre<g ref="char:EOLhyphen"/>thren, and procures you great eſteem in the world, and greet<g ref="char:EOLhyphen"/>ings in the Markets, and the uppermoſt rooms at feaſts; and makes you live an idle life, much unlike thoſe <hi>Tent making preachers who laboured night and day, with their owne bands that they might not bee chargable,</hi> 1 Theſ 2.9. And there is ano<g ref="char:EOLhyphen"/>ther uſe thereof; and that is when any of you fall into an erro<g ref="char:EOLhyphen"/>nious way, you can draw more after you, then any men: there<g ref="char:EOLhyphen"/>fore it is ſaid of the <hi>falſe Prophets that they ſhould deceive many:</hi> Mat. 24.5. And looke upon all the ſects that have been broached in the world, and you ſhall find, that the firſt broa<g ref="char:EOLhyphen"/>chers, and cheife leaders in the ſame, for the moſt part, were learned men.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Then it ſeems you thinke that there is no good uſe of learning.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Yes, I doe not queſtion but that there is very good uſe to bee made of it; but Sir, you muſt beare with me, I for my own part, doe not know that it makes a man ever the more able, to underſtand the mind of God in the Scriptures much leſſe that it is the only thing to make a man a Preacher.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I doe not ſay it is the only thing, for there muſt bee that teaching which you ſpeake of, and there muſt alſo be an outward call, without which, no man ought to preach.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Sir, I pray you tell me, what you mean by an out<g ref="char:EOLhyphen"/>ward call?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>It is a ſetting apart to the Miniſtry, by laying on the hands of the Presbytery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>What Presbytery doe you mean?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>The Miniſters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>If this bee the only way of making <hi>Miniſters,</hi> then is the <hi>Pope,</hi> and the <hi>Biſhops,</hi> as true <hi>Miniſters</hi> as you.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>No, they are not, for they are</hi> Antichriſtian.</p>
+            </sp>
+            <sp>
+               <speaker>Sould</speaker>
+               <p>Then ſo are you, for you are Miniſters, by their ſetting you apart, and laying their hands upon you, &amp; it is acknowled<g ref="char:EOLhyphen"/>ged in the ordinance for making Miniſters, to be valid, and you
+<pb n="7" facs="tcp:114188:6"/>know, that <hi>Pope Gregory</hi> made <hi>Auguſtin</hi> the Monk, Biſhop of <hi>Doribernia,</hi> and he made more Biſhops,<note place="margin">Pope <hi>Gregory</hi> ſent a Pall to <hi>Auguſtin</hi> into <hi>England,</hi> giv<g ref="char:EOLhyphen"/>ing him power to make 12 Biſhops, and to the Biſhop of <hi>York</hi> he promi<g ref="char:EOLhyphen"/>ſed to give a Pall, when <hi>Au<g ref="char:EOLhyphen"/>ſtin</hi> had ordai<g ref="char:EOLhyphen"/>ned him that he might make 12 Biſhops ſo, they grew into many hun<g ref="char:EOLhyphen"/>dreds, as it is at this day, <hi>Act.</hi> &amp; <hi>Mon.</hi> p. 116.118</note> and they made more Biſhops, and they made more,; and ſo it paſſed from hand, to hand, and by your ground, the line of your Miniſtery muſt ſucceſſively come from the Apoſtles, and I wonder how both ends will hold together, when the middle is taken away: <hi>viz.</hi> the Popes and Biſhops: But becauſe you ſay, none may preach without this calling, I doe deſire a proofe thereof, for I thinke the contrary will be proved; although the calling you ſpeak of were granted to bee right.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I will prove it, no man takes this honour unto himſelfe, but hee that is called of God, as was</hi> Aaton <hi>Heb</hi> 5.4.</p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>you have brought Scripture I confeſſe, but not to your purpoſe, for it onely intends <hi>Aaron,</hi> and his ſucceſſours, the type, and Jeſus Chriſt in the antitype, as the 5. Ver. doth declare, and is not at all intended, of the Miniſters of the Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But there is an equity in it, that bolds to the Miniſters of the Goſpel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I grant that the Miniſters of the Goſpel ought to have a lawfull outward call, which whether that that you plead for bee ſo or no I queſtion. But I ſhall prove, that preaching the word, in the ſenſe before ſpecified by you, is not tyed up in the hands of Miniſters; but is the worke of every one, that hath learned Chriſt; as hath in part been proved, and will yet be made more evident. You ſee in the former quoted place of <hi>Acts.</hi> 8.4. <hi>thoſe that were ſca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ered abroad were not</hi> Miniſters in office, for thoſe were not ſcattered abroad. Ver. 1. <hi>Yet they preached every where, up and downe in the Countries, and were inſtruments of much peoples turning to the Lord,</hi> Chap. 11.19.20.21 <hi>And when tidings of this came to the Church at</hi> Jeruſa<g ref="char:EOLhyphen"/>lem, <hi>they ſent</hi> Barnabas, but it was not to puniſh thoſe ancall<g ref="char:EOLhyphen"/>ed preachers (as I perceive you ſhould have done) but rather to incourage them; <hi>and when bee was came, hee was glad to ſee the grace of God,</hi> accompanying their worke, and inſtead of telling the people, that they muſt take heed of ſuch beſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odies, as had been among them, or the like; <hi>hee exhorted them with purpoſe of heart they ſhould cleave to the Lord,</hi> Ver. 23: hee did well in it, for the text adds, <hi>hee was a good man, and full of the holy Spirit,</hi> ver. 24.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:114188:7"/>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I grant that thoſe in</hi> Act. 8. <hi>did preach, but it was in a time of perſecution.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Then it ſeemes by your ſpeeches, that when you have got the power (which you ſo much labour for) to perſecute us, we may preach; but I think, that if it be lawfull in time of per<g ref="char:EOLhyphen"/>ſecution, it is alſo lawfull in time of peace; for we muſt not doe the leaſt evill, that the greateſt good may come of it.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But that was when there was but few Miniſters; ſo that there was then more need of their preaching, then there is now.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>There was never any need of an evill practice, to ac<g ref="char:EOLhyphen"/>compliſh the work of God; and if it had been an evill act, the Apoſtles would not have ſat ſtill at <hi>Jeruſalem, Act.</hi> 8.17 and ſuffered theſe men, to have gone preaching, up and down the Countries, but would forth-with have ſubſtituted ſome to be officers to have done it, and forbad the other. But I will give you more Scripture, that ſo by the mouth of two or three wit<g ref="char:EOLhyphen"/>neſſes, every word may be eſtabliſhed: you may ſee, in <hi>Phil.</hi> 1.14. <hi>Paul</hi> tels the <hi>Philipians, that his bonds had cauſed many of the Brethren in the Lord, to ſpeak the word without fear.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But by your favour ſir, he meant the Miniſters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>No ſir, He did not mean the Miniſters, for he ſayes, <hi>That many of the Brethren in the Lord were imboldned to ſpeak the word without fear:</hi> if he had meant the Miniſters he could not have ſaid, <hi>Many of the Brethren;</hi> for there could not be many Miniſters at <hi>Rome,</hi> for we read but of one Church there; ſo that I ſuppoſe there was not above two or three Miniſters at the moſt, for ought that can be gathered.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But I doe beleeve they were Miniſters, of whom the Apo<g ref="char:EOLhyphen"/>ſtle ſpake; this is but your own interpretation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Then I pray you ſir, let us heare your interpretation.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I ſay they were Miniſters; for otherwiſe the Apoſtle would have reproved them for Preaching.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>That I deny, for the Apoſtles never forbad any to preach, but ſhe onely that preached by the ſpirit of the Devill, <hi>Act.</hi> 16.17, 18. <hi>But did rejoyce that Chriſt was preached, though out of envy,</hi> Phil. 1.15.18,</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Then you think if the Mayd in</hi> Act. 16. <hi>had not ſpake by the ſpirit of the devill, the Apoſtle would not have forbad her to preach.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:114188:7"/>
+               <speaker>Sould.</speaker>
+               <p>No, why ſhould he?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I thought where I ſhould have you, then it ſeemes women and all may preach, by your grounds?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Yes, for it is warranted by Scriptures; for I know no difference between <hi>preaching,</hi> and <hi>prophecying;</hi> for <hi>prophecy<g ref="char:EOLhyphen"/>ing is to ſpeak to edification, exhortation, and comfort.</hi> 1 Cor. 14.3. and it is cleare that women may propheſie, 1 <hi>Cor,</hi> 11.5. Where the Apoſtle ſaith. <hi>Every woman that prayeth or propheſieth, having her head uncovered, diſhonoureth her head:</hi> ſo then, ſhe may both pray and propheſie with her head covered. The woman of <hi>Sa<g ref="char:EOLhyphen"/>maria</hi> brought many of <hi>her City to beleeve in Corist, by her teſti<g ref="char:EOLhyphen"/>fy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> what ſhee had heard, and learned of Chriſt,</hi> Joh. 4.39. <hi>Priſcil<g ref="char:EOLhyphen"/>la</hi> did preach the way of God more perfectly, to him that was a Preacher of it before, <hi>Act.</hi> 18.26. <hi>Paul intreateth his true yoke fellow, to helpe thoſe women, which laboured with him in the Goſpel,</hi> Phil. 4.3 we ſee <hi>Paul</hi> was a man of a gallant, free, ſelf-deny<g ref="char:EOLhyphen"/>ing ſpirit he did rejoyce if Chriſt was preached, either by men or women; he did not feare the eclipſing of his own glory (he ſtood more upon the glory of God) notwithſtanding he knew ſome did preach to that end, <hi>Phil.</hi> 1.16.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Doth not</hi> Paul <hi>forbid women to preach,</hi> 1 Cor. 14 34. <hi>Yea, even commands them to keep ſilence in the Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Its true, in the <hi>Church</hi> he forbids them, but out of the <hi>Church</hi> he leaves them to their liberty; but in the ſame Chap<g ref="char:EOLhyphen"/>ter he allows all the members except women, to uſe their gifts, as <hi>ver.</hi> 1, 24 26.31. The next place of Scripture I ſhall give you is 1 <hi>Pet.</hi> 4.10, 11. the words are, <hi>As every man hath received the gift, even ſo let him miniſter the ſame one to another, as good ſtewards of the manifold grace of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But the Apoſtle ſpeaks inverſe</hi> 9. <hi>of Hoſpitality.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>It is true; but ver. 10. he ſpeaks of <hi>manifold grace:</hi> ſo that if he did mean outward things, he meant ſpiritual things alſo, and ver. 11. he ſayes; <hi>If any man ſpeak, let him ſpeak as the Oracles of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But be meant the Miniſters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>If he did, he meant others alſo, for he bids them <hi>mi<g ref="char:EOLhyphen"/>niſter one to another:</hi> and I hope you will not ſay that Miniſters muſt onely miniſter to Miniſters.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:114188:8"/>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I ſee you can talke for your ſelf well, but wee ſhall have you talk ſome where elſe, ere long.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Doe I ſpeak any more then the Scripture ſpeakes, I have given you nothing elſe, but we may ſee what ſpirits you are of; that inſtead of harkning to what the Scriptures ſpeak, you fall to your old threatning ſpeech: I thought to have gi<g ref="char:EOLhyphen"/>ven you more Scripture, but if this take place in your ſpirit no better, there is little hope to convince you by quoting Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>This is a meet vapour, I doe beleeve you have produced all you know of.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Nay, I can give you many more, but becauſe our way doth not lye farre together; I will onely name the places to you, and you may peruſe them at your leiſore, <hi>Heb.</hi> 3.13. <hi>Chap.</hi> 10.24, 25. <hi>Mal.</hi> 3.16. <hi>Revel.</hi> 11.3.7. <hi>&amp;</hi> 19 10.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Well, I will look upon theſe places when I can attend it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Nay, I think you are not greatly over-wrought; un<g ref="char:EOLhyphen"/>leſſe it be in ſeeking after the beſt Benifice, or in ſeeking for a way and power to kill us, for doing our duty.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I deny it to be your duty to Preach.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>But I have proved it.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I grant it was their duty, which you inſtance in; but that was in a time of need; and neceſſity hath no law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Sir, if it was duty for them, becauſe it was a time of need, then ſure it is our duty now; for I think there was never a time of greater need, for if you ſhould travell as we have done up and down the Country, you might ſee it: for the people generally know little more of God, and Chriſt, than thoſe that never heard of him; and have almoſt none in many places, to inform them better. Now after we have hazzarded our lives, againſt our profeſſed enemies, and God hath given us them for a prey, we are forced to hazzard them againe, in the diſcharge of our duty, in a time of ſuch need. But we did not look for ſuch meaſure at your hands: But I ſee the old Proverb is true, That a <hi>Falſe friend, is worſe than an open enemy:</hi> for you onely ſhewed your ſelves kinde to us, till we had ſerved your turne, <hi>viz.</hi> to bring under the Epiſcopall party, that ſo you might get into your Lordly dignity; and now you indevour our ruine.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:114188:8"/>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Farre he it from us to ſeek your ruine, we onely ſeek is reclaime you, from ſowing your errors.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I ſhall make the ſame anſwer to you, as once <hi>Paul</hi> did before <hi>Foelix, Act.</hi> 24.14. when the perſecuting Miniſters of the Jews, came with their Oratour. <hi>Tertullus,</hi> who came to ſlander <hi>Paul</hi> before the Governour: <hi>That after the way which you call Hereſie, ſo worſhip we the God of our Fathers.</hi> And in<g ref="char:EOLhyphen"/>deed, you deale by us as they did by <hi>Paul,</hi> who after he had been delivered by the marveilous providence of God, from the vio<g ref="char:EOLhyphen"/>lence of the wicked conſpiring Jewes, by the heathen Cap<g ref="char:EOLhyphen"/>taine, they come on againe with a new deſigne againſt him, and bring a <hi>Tertullus</hi> to accuſe him to the Governour, <hi>of being a pe<g ref="char:EOLhyphen"/>ſtilent fellow, a mover of ſedition, and a chiefe maintainer of the Sect of the Nazarites:</hi> even ſo, God having wonderfully delivered us from our enemies, that you ſee we periſh not by them, now you bring your great Orator <hi>Tertullus, alias Mr. Edwards,</hi> and furniſh him from all quarters of the Land, with accuſations a<g ref="char:EOLhyphen"/>gainſt us, as falſe as that of <hi>Tertullus</hi> was, that <hi>Paul</hi> was a <hi>peſti<g ref="char:EOLhyphen"/>lent ſeditious fellow, &amp;c.</hi> and you your ſelves ſay the ſame thing of us; as that we are peſtilent broachers of Hereſie, wicked Sectaries, and what not: and from this you would (as you ſay) reclaime us, and the way you take, is to labour by all meanes to incenſe the Magiſtrates againſt us, if poſſibly you may prevaile with them, to cut us off from the Land; either by death, or by baniſhment, or (ſo it be done) you care not which way: and leaſt the Magiſtrate ſhould refuſe to yeeld to your wicked deſire you have another way to help at a dead lift, which is to make your Pulpits ring, with out-cries againſt us, that ſo you may image the rude people to ſet upon us, by ſome violent aſſault or other, to deſtroy us.</p>
+               <p>But look to it, innocent blood being ſhed, cries loud in the ears of the Lord, for vengeance againſt theſe that ſhed it: as you may ſee Gen. 4.10. <hi>the voyce of thy brothers blood cryeth unto me from the earth,</hi> ſaith God to <hi>Caint.</hi> See alſo Revel. 6.10. <hi>and they cryed with a loud voyce ſaying, how long Lord holy and true, doeſt thou not judge and avenge our blood.</hi> and 16.6. <hi>they have ſhed the blood of the Saints, and thou haſt given them blood to drinke, for they are worthy.</hi> And Chap. 19.2. <hi>The ſervant of the
+<pb n="12" facs="tcp:114188:9"/>Lord ſing prayſes to him, for avenging their blood at the hand of the great Whore:</hi> and indeed, blood ſeldome goeth unpu<g ref="char:EOLhyphen"/>niſhed in this life; as I might give you many inſtances. ſee it fulfilled upon <hi>Ahab</hi> and his houſe: 2 <hi>King.</hi> 9.7, 8, 9, 10. <hi>Chap.</hi> 10. 11. ſo <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u's</hi> houſe <hi>Hoſ.</hi> 1.4. Nay you may ſee how fear<g ref="char:EOLhyphen"/>full thoſe Mariners were. <hi>Jonch</hi> 1.14 Of being guilty of innocent blood; notwithſtanding (as it ſeems) they had all-moſt every one of them a ſeverall God: and let mee tell you, if you be guilty of our blood, it will be with an aggravation, for wee as inſtruments have ſaved your lives, and cauſed you to ſit at home in peace. This conſideration prevailed with <hi>Soul,</hi> as wicked as he was, when <hi>Jonathan</hi> had ſaid unto him <hi>let not the King ſinne againſt his ſervant, againſt</hi> David, <hi>becauſe hee hath not ſinned againſt thee, and becauſe his workes have been very good to thee wards; for he put his life in his hand, and ſlew the</hi> Philiſtims, <hi>and the Lord wrought a great ſalvation, thou ſaweſt it, and didſt rejoyce in it: Wherefore then, wilt thou ſin againſt in<g ref="char:EOLhyphen"/>nocent blood, and ſlay</hi> David <hi>without a cauſe</hi> 1 Sam. 19.4 5. his an<g ref="char:EOLhyphen"/>ſwer was, <hi>as the Lord liveth, hee ſhall not bee ſlain.</hi> ver. 6.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>There is no body goes about to take away your lives, or in any wiſe to hurt you, if you will bee juled.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Ruled, by whom would you have us be ruled; by God or by you?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>By God and by us too, for wee will command you nothing, but what is the minde of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>But when your prohibitions, come in competition with Gods Commands, wee muſt mind his commands, and not regard your prohibitions, your ſelves being Judges.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>That I grant, when they doe ſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I have already proved that they doe ſo; and your ſelves prove it: for you ſay none ſhall preach, but thoſe that you ap<g ref="char:EOLhyphen"/>point, and God, hee commands all his people <hi>to aſſemble to<g ref="char:EOLhyphen"/>gether, and not forſake the aſſembling of their ſelves together; but exhort one another daily, while it is called to day:</hi> And tells us the danger of neglecting it; <hi>leaſt,</hi> (ſaith the Apoſtle) <hi>any of you ſhould bee hardned, by the deceitfullneſſe of ſin.</hi> Heb. 10.24.25. and Chap. 3.13.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Who will hinder you, but that you may exhort one another?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:114188:9"/>
+               <speaker>Sould.</speaker>
+               <p>Will not you?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>No, why ſhould wee?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Why ſhould you? truly I know no reaſon why you ſhould.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>No more doe I, but you cannot content your ſelves with exhorting one another, but you muſt be preaching one to another.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Can you diſtinguiſh between preaching, and ex<g ref="char:EOLhyphen"/>horting, taking preaching according to the definition your ſelfe gave of preaching, in the beginning of our diſcourſe?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Yes, I can, for you may exhort your friend as you meet him occaſionally; but when you preach, you meet together on purpoſe to that end?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>You muſt grant both, or elſe (as much as in you lies) you hinder us of doing our duty, which God enjoynes us; which is to <hi>aſſemble our ſelves together;</hi> as I have already proved, <hi>Heb.</hi> 10.25.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Then we ſhall have you meet by hundreds together?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>The more the merrier; if it be lawfull, and it be the duty of two to meet together, to exhort, and ſtir up one ano<g ref="char:EOLhyphen"/>ther to love and good workes, then it is as lawfull, and the duty often, and ſo of twenty, and ſo of a hundred, if ſo many can be found, but alas, there is in many Countries hardly halfe ſo ma<g ref="char:EOLhyphen"/>ny to be found in a whole Countrey that looke after Religion any otherwiſe, then the cuſtome of the place is, and the faſhion of the time; be it what it will be, neither have they any means of further light, having none to preach to them, in ten, nay in twenty miles about, and yet you will be like thoſe to whom Chriſt pronounceth woe. <hi>Matth.</hi> 23.13. <hi>You ſhut up the kingdome of heaven:</hi> you will not goe abroad to preach to them your ſelves, nor ſuffer thoſe that would; and ſo much as in you is, you hinder the ſalvation of men, whoſe periſhing will (in part) therefore be upon your account, therefore let me give you one exhortation, Repent betime of this into erable wickedneſſe, if peradventure, the thoughts of your hearts may be forgiven you: tell the people, you have beene enemies to their ſoules and bodies, but you will be ſo no more: bid the people of God be conſtant and frequent in meeting together as their duty bindes them: labour to incourage them ſo
+<pb n="14" facs="tcp:114188:10"/>much the more, by how much you have laboured to diſcourage them; ſo ſhal you approve your ſelves to be of <hi>Sauls</hi> (that out of <hi>zeale,</hi> have <hi>perſecuted</hi> the people of God) to become <hi>Pauls,</hi> ſuch as rejoyce, that Chriſt is held out every manner of way yea though it be by <hi>Mecanicks,</hi> whom you now ſo much deſpiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>If we ſhould doe ſo, then we make every mecanick equall without ſelves; and ſo as I ſaid at the firſt, our Miniſtery will bee ſlighted.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>You know that the <hi>Miniſters of Chriſt muſt deny them<g ref="char:EOLhyphen"/>ſelves, in all ſelfe-ends;</hi> You are not to miniſter for your ſelves, but for Chriſt, and if it tend to the honour of Chriſt, and the furtherance of his <hi>Kingdome,</hi> it ought to be your joy, as it was <hi>Pauls,</hi> Phil. 1.14.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But we must live of our Miniſtery, and if you be ſuffered to preach, our hearers will follow after you, becauſe you preach for no<g ref="char:EOLhyphen"/>thing: and if they begin to ſee that they can have preaching for nothing, they will hold us ſhort enough, in our means.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>All this is but <hi>carnall reaſoning;</hi> if you <hi>will</hi> or <hi>dare</hi> truſt God with your condition, he will ſurely provide for you; you uſing a lawfull meanes, <hi>viz.</hi> uſing ſome lawfull way or calling, to ſupply your ſelves; that ſo with the Apoſtle, <hi>you may make the Goſpel without charge;</hi> you ſee his care was ſuch, 2 Theſſ. 3.8. <hi>Neither tooke we bread of any man for nought</hi> (ſaith he) <hi>but wee wrought with labour and travell, night and day, that we might not bee chargeable to any of you,</hi> 1 Cor. 9.18. <hi>What is my reward then, ve<g ref="char:EOLhyphen"/>rily when I preach the Goſpel, I make the Goſpel without charge, that I abuſe not my power in the Goſpel,</hi> Acts 20.33, 34. <hi>I have covered no mans ſilver, nor gold, nor apparrell, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> yee your ſelves know, that theſe bands have miniſtred to my neceſſities, and to thoſe that were with me:</hi> Yet God provided for <hi>Paul,</hi> notwithſtanding he made the Goſpel thus without charge.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Then you thinke we ſhould doe as the Apoſtle did?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>If you be the <hi>Miniſters</hi> of <hi>Chriſt</hi> why ſhould you not in caſe of need?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>We lave not been brought up to labour with our hands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>The more blame for thoſe that brought you up; but I beleeve it was <hi>Pauls</hi> caſe, for <hi>be was brought up at the ſees of Canaliet;</hi> nevertheleſſe, when the Lord called him to bee a
+<pb n="15" facs="tcp:114188:10"/>Preacher of the goſpell he could ſay his hands to work.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But wee have worke enough to ſtudy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Why is that? but becauſe you depend to much up<g ref="char:EOLhyphen"/>on outward helps, and to little upon the teaching of the ſpirit.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>
+                  <hi>How doe you know wee depend ſo much upon the one, and ſo little upon the other?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Becauſe you muſt have a time to ſtudy; <hi>Paul</hi> could ſpend much of his time, in labouring with his hands.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But wee cannot live as Paul did, in ſuch a mean conditi<g ref="char:EOLhyphen"/>on, having families to maintaine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>The greater a mans family is, the more need hee hath to take paines; and if that be too little, the ſpirit of love in the Saints, is not ſo farre loſt; but that they will ſupply that which is wanting to him, that doth his endeavour.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>If wee ſhould have but what people would freely give us, we ſhould bee poore enough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>That is like enough; for you never finde in the ſcrip<g ref="char:EOLhyphen"/>ture, that the <hi>Miniſters of Christ</hi> were <hi>very rich</hi> in this world. See 2 Cor 6.10. <hi>As poore, and yet making many rich; as having nothing, and yet poſſeſſing all things.</hi> And ver. 4. <hi>In all things wee approve our ſelves, as the Miniſters of God, in much patience, in afflictions, is neceſſities, in diſtreſſes, in ſtripes, in priſons, &amp;c.</hi> Yea the great preacher Jeſus Chriſt himſelfe <hi>had not a place to lay his head.</hi> Mat. 8.20. <hi>And the Diſciple muſt not be above his Lord: is is enough that hee bee as his Lord is.</hi> Mat. 10.24.25. But when mention is made of the Miniſters of <hi>Antichriſt,</hi> and <hi>Merch<g ref="char:EOLhyphen"/>ants</hi> of the great Whore; you ſhall finde them to be very rich Revel. 18.3. <hi>Toe Merchants of the earth are waxed rich, through the abundance of her coſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſſe:</hi> and ver. 19. <hi>Alas, alas, that great City, wherein were made rich all that had ſhips in the Sea.</hi> So that I muſt tell you, that where I ſee a company of Miniſters, that rake and ſcrape, to bee, rich by other mens meanes; and poſt up and downe for the fatteſt bemire; and theſe ex<g ref="char:EOLhyphen"/>tort from poore and rich, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of all their labour, charge, and increaſe, beſtowed upon, and ſpringing from their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and in eaſe any bee decayed in their eſtates, that they can finde nothing to extort, then they doe can them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, without bade of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of
+<pb n="16" facs="tcp:114188:11"/>Chriſts <hi>Ministers,</hi> and where I finde men going from one <hi>Be<g ref="char:EOLhyphen"/>nifice,</hi> to <hi>another that is better;</hi> it is an argument to me that they are <hi>wandering</hi> (not fixed) <hi>ſtarres:</hi> ſtarres being expounded to be <hi>Miniſters,</hi> in <hi>Revel.</hi> 1.20. compared with <hi>Jude</hi> 13. <hi>And in<g ref="char:EOLhyphen"/>deed, to be of thoſe, which the Dragon with his taile caſt to the earth, Revel.</hi> 12.4. they being ſo ſet in purſute of theſe <hi>earthly things.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Well, for all your prating, men muſt live; is not the La<g ref="char:EOLhyphen"/>bourer worthy of his hire?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Yes, and therefore if you be one that is <hi>hired</hi> to be a <hi>Miniſter,</hi> you ſhould take your wag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of thoſe that hire you: and not extort it from others, as many of you doe.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Some will not pay unl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe they be forced.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>They be ſuch, I beleeve, as never hired you, and if they did not ſet you on work, what reaſon is there that they ſhould pay you your wages?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>The Ordinance for due payment of tythes, d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th in, oyne all to pay.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I, but I aske what reaſon it is that thoſe that doe not ſet you on wot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, muſt be forced to pay you your wages?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>You were beſt ask the Parliament, why they made ſuch an Ordinance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>If I ſhould, they might very well tell me, that one re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon why they did it, was becauſe they could never be at qui<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for you, till they had made it; as likewiſe you deale about getting power to ſuppreſſe us; unleſſe wee can yeeld to your wills in all things.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>It is time (I think) to get an Ordinance to ſuppreſſe you; for you would ſuppreſſe us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>The Miniſters of Chriſt, muſt not <hi>render evill for evill,</hi> But wherein doe we goe about to ſuppreſſe you?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>By deſiring that we may be expoſea to</hi> work, <hi>and to have no other allowance, but the good will of the people.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>We would have you (if you be the Miniſters of <hi>Chriſt</hi>) to have all the allowance that the <hi>Scripture</hi> allowes you; and if you are the Miniſters of Chriſt, I ſuppoſe thas will ſuffice you.</p>
+               <p>Again, if the Scripture doe not allow you ſuch an allowance as you defire to have, yet we are contented, that thoſe that you can perſwade to pay you, may pay you, we ſhall not preſſe the
+<pb n="17" facs="tcp:114188:11"/>
+                  <hi>Parliament</hi> to make an Ordinance againſt it: but you are al<g ref="char:EOLhyphen"/>waies <hi>labouring with the Parliament</hi> for power to ſuppreſſe us; but know this, that we that have ſo freely adventured our lives in the field for temporall Liberties, will not (ſeeing God hath given us our lives for a prey) neglect our duties though in the doing of the ſame we hazzard them againe in a ſecond <hi>quarrell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Then it ſeemes you intend to fight with us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Not with <hi>Temporall Weapons,</hi> but we are reſolved to goe on with our duty though in the doing thereof, we fall under your mercileſſe cruelty, to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking away of our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ives.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Who indevours the taking away of your lives?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Did not your Brother <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>field</hi> beſpeak the <hi>Parliament</hi> that Timber migh bee taken out of their own houſes to make Gib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ets to hang thoſe upon that ſtood in your way; or were contrary to your pretended Reformation? and are not the <hi>wiſh</hi> and <hi>threatnings</hi> a moſt <hi>innumerable,</hi> that are of the like conſideration? witneſſe the many Sermons preached before the <hi>Parliament,</hi> by <hi>Presbyterian Ministers:</hi> and the many boo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s extant, to that purpoſe: among which Doctor <hi>Baſtwicks,</hi> Mr. <hi>Prynn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> and Mr. <hi>Edwardſes,</hi> may lead the Van: and there is many Brigades of valian, fighting blades, in the rear of them; ready to fall on, pell mell, upon us? had they (ſhall I ſay) a word of Command; nay, but of <hi>permiſſion</hi> from the Parlia<g ref="char:EOLhyphen"/>ment for it: which yet I hope they ſhall never get, for if they ſhould, they would involve the Kingdome (as I ſaid before) in a further guilt of the blood of his innocent people, which ſurely he will avenge.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>None of thoſe you inſtance in, would have any to be put to death, but thoſe that deferve it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Yes, they would, for they are not murtherers which they would have put to death.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Yes, but they are, for they murther ſoules, which is the higheſt degree of murther, that can be.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I have proved you to be the greateſt ſoule murther<g ref="char:EOLhyphen"/>ers that can be, becauſe you indevour to hinder the people of God, from communicating their light one to another; and ſo by that rule if ſoule-murtherers ſhould be put to death, you of all men would come under the ſentence of it; but thoſe for the
+<pb n="18" facs="tcp:114188:12"/>moſt part which you would have ſentenced are ſuch who by all means indevour the good of ſoules and that freely, which you doe not; or <hi>No longer p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pe, no longer dance,</hi> as the Proverb ai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s) for you will ſtay no longer in a place then you can be wel pay<g ref="char:EOLhyphen"/>ed, but like thoſe <hi>wanering ſtarres Jud</hi> ſpeaks of, away you goe to another place, where you can be better p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id: yea, and that after you have owned hem to be your flock, and they you to be their Paſtour: which if it wer ſo indeed, you could not doe it, for the Apoſtle gives change to the Elders of <hi>Epheſus, Act</hi> 20.28. <hi>That they ſhould take heed to the flock of God, over which the Holy Ghest had made them overſeers.</hi> They were not to leave it for another, and if they ſhould have excuſed it for want of <hi>meanes,</hi> he prevents them in that, <hi>ver.</hi> 35. incouraging them to their duty, by his example, <hi>which was, to work with their hands,</hi> and by the ſayin; of the Lord which was, <hi>that it is a more bleſſed thing to give then to receive</hi> ſo that a true Paſtour of a true flock of Chriſt, cannot leave one to goe to another, upon no pretence whatſoever.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Then we (it ſeemes) may be fleighted, and abuſed, and yet we muſt ſtay by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, and muſt not have our flock notwithſtanding?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Flock did you ſay? ſay never call them a flock, rather call them a Herd, if they will abuſe and ſleight their Paſtour; but it muſt needs be ſo, ſeeing <hi>you make all, high and low, rich and poore,</hi>
+                  <note place="margin">Rev. 13.16.</note> 
+                  <hi>bond and free, to receive a mark, to be of your Church, will they, will they, be they good or bad,</hi> for there is none ſo bad, but they are good enough to be of <hi>your Church,</hi> onely they are not good enough, to partake of all <hi>your Ordinances:</hi> therefore you will keep away the <hi>ſcandalous</hi> and <hi>prophane,</hi> which labour might be ſpared, if there were not ſuch in <hi>your Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Why in the pureſt Church that ever was, there have been ſome nought.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I grant there have, but then <hi>they crept in at unawares,</hi> as <hi>Jude</hi> ſpeaks, ver. 4. they came in like good men, and ſo ſoon as they were diſcovered to be other wiſe, they were caſt out (or ought to be at leaſt) and it was the <hi>Churches ſir,</hi> if they did not doe it, 1 <hi>Cor.</hi> 5.1, 2. But there is a wide difference, but ween ſome proving nanght in a <hi>Church</hi> &amp; a <hi>Church</hi> being <hi>conſtituted of ſuch</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Why, was our Church constituted of ſuch?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:114188:12"/>
+               <speaker>Sould.</speaker>
+               <p>Yes, for in point of <hi>conſtitution</hi> it is by <hi>ſucceſſion,</hi> and ſo it is like people, like Prieſt; for looke how the Popiſh Prieſt left the people in Queen <hi>Maries</hi> dayes, ſo the Epiſcopall Mini<g ref="char:EOLhyphen"/>ſters tooke them in Queen <hi>Elizabeths</hi> dayes; and looke how they left them when you did caſt them out, as unfit to <hi>adminiſter</hi> any <hi>longer,</hi> ſo you tooke the ſame people into your charge: ſo it is with the flocks as with the ſheepherds, the ſame <hi>ordination</hi> which they had in Queene <hi>Maries</hi> dayes to make the <hi>Papall Prieſts,</hi> the ſame ſerved in Queen <hi>Elizabeths</hi> dayes, to make the <hi>Epiſcopall;</hi> and the ſame that was for the <hi>Epiſcopall,</hi> the ſame ſerves now for you that are new moulded Presbyters, as i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cleare by the ordinance that is for the making of Miniſters, which ſayes, that that ordination was valid: ſo that all the Re<g ref="char:EOLhyphen"/>formation ſo much talked of, conſiſts in altering of words; there being the ſame matter, and for the moſt part the ſame forme, as was in Queen <hi>Maries</hi> time, both for <hi>Church</hi> and <hi>Miniſtery:</hi> and for the Maniſtery I confeſſe it muſt needs bee ſo, or elſe downe falls ſucceſſion; and for the people, it muſt needs be ſo, for elſe if none were to be of the Church, but thoſe that could be jud<g ref="char:EOLhyphen"/>ged godly, there would want a great deale of the tythes, obla<g ref="char:EOLhyphen"/>tions, obventions, &amp;c. becauſe in moſt (if not in all) places the ungodly are the greateſt number; as likewiſe godly men begin to ſee that tythes, oblations, are not to be paid by any rule of the Goſpell.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Why, are they not to be paid?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Becauſe they were never appointed to bee paid by any, but the people of <hi>Iſrael:</hi> nor by them no where, but in the Land of <hi>Canaan;</hi> nor to any Miniſters, but to the tribe of <hi>Levit</hi> and they had it <hi>becauſe the Lord gave them no inheritance among their brethren.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not the Apoſtle ſay, that thoſe that preach the Goſpel ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> live of the Goſpel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Yes, therefore hot live of the Law as did Prieſts and Levites.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>What then doe you thinke it is, to live of the Goſpell?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>It is for thoſe that are in the <hi>fellowſhip</hi> of the <hi>Goſpell,</hi> to ſupply their Miniſters in thoſe things they ſtand in need of, they having done their endeavours not be chargeable.</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:114188:13"/>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Well, but for all this, I am of the minde we may take tythes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Then it ſeems you doe not thinke that you are bound to live of the Goſpell, whatſoever you ſay? and indeed I do not know why you ſhould, unleſſe you are Goſpel Miniſters; and you cannot be Goſpel Miniſters unleſſe the <hi>Epiſcopall</hi> and <hi>Papall Miniſters</hi> were Goſpel Miniſters, as I ſaid before.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I confeſſe there is much amiſſe in Church and Miniſtery, in reſpect of conſtitution, but all cannot be reformed in a day?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>
+                  <hi>Reformed:</hi> nay if a thing be amiſſe in the conſtitution, it is not poſſible to <hi>reforme</hi> it, what ever it be: therefore till your Church and Miniſtery be new from the <hi>foundation,</hi> and have a new <hi>conſtitution,</hi> it can be no more right, then the Church and Miniſtery in Queen <hi>Maries</hi> dayes was, which being well conſidered, me thinks it might ſomewhat alay the heat of your ſpirits from burning ſo <hi>furiouſly,</hi> againſt thoſe that doe ſome<g ref="char:EOLhyphen"/>what differ from you, as touching the Church and Miniſtery; and that you might not ſo eagerly deſire their tuine, ſeeing your ſelves ſtand upon ſuch a ſandy foundation.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Seeke their ruine? God forbid we ſhould ſeeke the ruine of any.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Well, tell me truly, would not you, and your bre<g ref="char:EOLhyphen"/>thren, have thoſe that differ from you in point of Church and Miniſtery, and worſhip, to be impriſoned or baniſhed?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I confeſſe we would not have them live among us to di<g ref="char:EOLhyphen"/>ſturb us, and ſeduce our bearers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I knew this was in your minde as appeares by your dayly preaching and printing, now let your ſelfe be judge, whe<g ref="char:EOLhyphen"/>ther or no, this doth not tend to the ruine of thoſe you would thus deale with; you will ſuppoſe you doe your duty in ſo do<g ref="char:EOLhyphen"/>ing, in caſe you baniſh them, and if it be your duty ſo to doe, then it is the duty of every one to doe the like that hath power to doe it: now you muſt needs grant, that this tends to their <hi>unavoidable ruine;</hi> for when you have baniſhed them from you, whitherſoever they goe, it is the duty of thoſe, among whom they come, to do the like, and ſo the next to doe the like, and the next, till there be no place for them in the world: and ſo you make void that text, <hi>Matth.</hi> 13.30. (were it granted that thoſe
+<pb n="21" facs="tcp:114188:13"/>you baniſh are wicked men) which ſaies, <hi>that the wheat and tarts, muſt both grow together till the harveſt.</hi> And the har<g ref="char:EOLhyphen"/>veſt is expounded to bee <hi>the end of the world.</hi> Ver. 39. So that if thoſe you baniſh bee <hi>tares,</hi> Viz. wicked men, you muſt let them grow in the world tell the end thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>But all (wee know) will not baniſh them, for they doe not regard religion in many countries, ſo wee know they need not get out of the world.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>But by your ground they neglect their duty, and what a ſhame is it for you, that thoſe which regard not re<g ref="char:EOLhyphen"/>ligion, are more mercifull then you, which are the great pre<g ref="char:EOLhyphen"/>tended reformers of religion. But conſider one thing more; the vileneſſe of this practiſe ſtayes, not in that which is done to them, but extends it ſelfe to wives, and children, who (though they be of your owne minde in point of worſhip) are ruined, and undone, by this means: for the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ng Wife, and tender Child, muſt leave their Father or Husband, or elſe goe out of the world with them, Oh cruelty not to be paral<g ref="char:EOLhyphen"/>lelled! Oh oppreſſion without compaire! Know this aſſured<g ref="char:EOLhyphen"/>ly, the Lord will not alwayes ſuffer it, ſee what hee ſaies of oppreſſion, and oppreſſors. Prover. 22.22. <hi>Rob not the peare, becauſe hee is poore; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ither oppreſſe the aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ictea in judgement: for the Lord will defend their cauſe, and ſpoile the ſoule of thoſe that ſpoile them.</hi> Now you both <hi>Rob,</hi> and make <hi>poore,</hi> and <hi>appreſſe in judgement,</hi> and <hi>ſpoile:</hi> Firſt you <hi>Rob</hi> them in taking from them their juſt liberties; in baniſhing, or impriſoning them, they being free borne; and if they were not poore before, you make them poore, by this courſe; which brings affliction not only to the <hi>ſuppoſed offenders,</hi> but even to thoſe, who in your ſence are guiltleſſe; as the <hi>Presbyterian</hi> husband, wife, parents, chil<g ref="char:EOLhyphen"/>dren, &amp;c. <hi>And thou you oppreſſe the afflicted in judgement. But the Lord will defend their cauſe;</hi> which is indeed, for their ex<g ref="char:EOLhyphen"/>ceeding comfort: but as for you; read your doome, in the next words; <hi>he will <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>le the ſoule of thoſe that ſpoile them.</hi> See alſo what the Lord hath ſaid, in relation to his poore cap<g ref="char:EOLhyphen"/>tivated people, and thoſe cruell tyrants that captivat them. Eſa 48.25.26. <hi>But thus ſaith the Lord, even the captivity of the mighty ſhall<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e taken away, and the prey of the Tyrant ſhall by delive<g ref="char:EOLhyphen"/>red,
+<pb n="22" facs="tcp:114188:14"/>for I will contend with them that contend with thee, and I will ſave thy children: and I will ſeed them; that ſpoile thee, with their own fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh, and they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bee drungen with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r own blood, as with ſweet w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, and all fl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h ſhall know, that I the Lord am thy Savi<g ref="char:EOLhyphen"/>our, and thy R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>deem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, the Mighty one of</hi> Jacob.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>What, do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you account us Tyrants?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>You prove your ſelves to be ſo by your practice.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Why there hath none of you, been either impriſoned, or baniſhed as yet.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>What is in intention, is all one as if it where in <hi>acti<g ref="char:EOLhyphen"/>on</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the account of Gods and it had been brought forth into <hi>ac<g ref="char:EOLhyphen"/>tion</hi> before this time, had the Parliament but given you <hi>power</hi> to doe it; as your dayly preaching, and printing doth declare, So that it may be fitly applyed to you, which is ſaid. Mic. 2.1. <hi>Woe unto them that unagine iniquity, and worbe wickedreſſe upon their b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dds, when the morning is light they practiſe it, becauſe their hand hath power.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Well, wee ſhall teach you to apply Scripture other we yet one o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> theſe dayes, if once wee could get ſome few <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ubbs out of our way, which wee are in great hopes, wee ſhall very ſpeedyly, if once the Army w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>banaed, and the King would take the Covenant, and ſo all the Cavaliers were turned</hi> Presbyterians, <hi>then wee could ſingle you out as wee pleaſed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Truely Sir, now I thinke you have told mee your very heart (at leaſt) as <hi>Sampſon</hi> did to <hi>Dal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lah;</hi> but it may be God will hold you ſhort ſtill, and not ſuffer you to wreck all your fury upon us; but however, wee are reſolved to anſwer you as the three Noble <hi>Jewes</hi> did the King, <hi>Dan.</hi> 3.17.18. <hi>Our God whom wee ſerve is able to deliver use from the hote fiery furnace of your intended perſecutions. But if not, bee it knowen unto you, that wee will not ſerve God</hi> after your minde, far<g ref="char:EOLhyphen"/>ther then wee can be perſwaded in our owne Conſciences, of the warrantableneſſe thereof; nor decline any duty, which we are perſwaded we owe to God; ſo that you will not get much by your Tyranny; onely what your <hi>Fore-Fathers did</hi> Viz. to be counted a generation of cruell, <hi>bloody perſecutours;</hi> which in time was their ruine, and will in time bee yours, if you perſiſt in their ſteps; and that ſhall aſſuredly bee made good, in due time, which is ſpoken in the ſeventh <hi>Pſalm,</hi> verſe
+<pb n="23" facs="tcp:114188:14"/>11.12.13. <hi>God judge<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the unrighteous; and him that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> God let <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> turne, he hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his, were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> bem his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ready, he alſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> weapens, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that perſecute.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> you b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to raile.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I doe not raile, I doe but tell you what the Scrip<g ref="char:EOLhyphen"/>ture ſpeaks of ſuch practiſes, and practiſers.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Put thoſe Scriptures are to le <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pphed to wicked men, and not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Miniſters of Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Thoſe Scriptures are to be applied to <hi>perſecutors,</hi> and ſuch you are by your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> grant; therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſwe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you as Je<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us did the J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Joh 8.39. <hi>if</hi> (ſaid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) <hi>yet were <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, ye <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> doe the workes of Ab <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ah<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m; to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l, if you were the Miniſters of Chriſt, you would doe the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orkes of the Mini<g ref="char:EOLhyphen"/>ſters of Coriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>What workes are they?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>
+                  <hi>To fee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the fi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e which be hath purchaſed with his owne bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and not to perſecute him in his <hi>members,</hi> old this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <hi>Miniſters of Chriſt.</hi>
+               </p>
+               <p>But truly when <hi>Martin marre Prieſt</hi> writ that a <hi>Presbyter would be ever times worſe then a biſh of, for perſecuting.</hi>
+               </p>
+               <p>I did not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him; yet <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thinke you are reſolved to make it good: ſo that I may well take up that ſaying of <hi>Stever</hi> againſt you, <hi>Act.</hi> 7.51, 52. <hi>As your fathers did <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> you, which of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e-people of God have not your Fathers perſecu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed</hi> which followed Chriſt? <hi>of whom you are now the betrayers and wurt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>rers;</hi> and <hi>Ezek.</hi> 20.30. <hi>are not ye pollu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed after thon anner of your Fathers,</hi> and <hi>Lake</hi> 11.48 <hi>Tre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y you beare w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>neſſe and allow the needs of your fathers who kille<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the people of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Who doe you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> by our Fathers <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> you thus ſpeake?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>The Biſhops, who doe you thinke I ſhould meane elſe?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>I have already denyed that we have any dependance upon the biſhops.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>And I have already proved, that you have a depen<g ref="char:EOLhyphen"/>dance upon them; I hope you will not ſay, that your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ſucceſſion reaches, no further then Doctor <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> Doctor <hi>Bur<g ref="char:EOLhyphen"/>ges,</hi> or Mr. <hi>Walker,</hi> &amp;c. and if it doe reach further, then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure
+<pb n="22" facs="tcp:114188:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:114188:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:114188:16"/>the Biſhops muſt needs be th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> next linck of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and therefore I muſt tell you that I cannot bu t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ink, that all ſuch of you w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re inlightned re <hi>forſworn,</hi> in not <hi>and vouring to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> our</hi> your own way of Miniſtery: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or you have ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om to extirpate root and branch, all h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> depends upon that Hierar<g ref="char:EOLhyphen"/>chy, and ſo the ſnare which you laid for others, hata can be your ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Who did <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el yaſnare for in the Covenant?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>For two ſorts of men:</p>
+               <p>Firſt the Biſhops, to ge them out of the way, that ſo you might reigne in their ſteads.</p>
+               <p>And ſecondly, for theſe honeſt men whoſe to ſciences would not ſuffer them to t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k it that ſo you might prevent them from b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aring any Office leſt they ſhould be impediments to the ſetting up of your new invented way and Miniſter, but it is a worſe matter to be forſworn, then to be counted unwor<g ref="char:EOLhyphen"/>thy to beare an O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce in Church or State.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Why doe you call our way and Ministery new, ſeeing it is not new?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>I confeſſe it is not new indeed, as I ſaid before; ſave onely in termes and cire mſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nces, for your way and Miniſte<g ref="char:EOLhyphen"/>ry, is as old as <hi>Epiſcopacy,</hi> but you have put it into a new dreſſe, that ſo it might not be miſ-truſted, to be that old one, which you have cauſed people to ſweare, to extirpate root<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and branch; but indeed it is the ſame; but how if people ſhould at la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come to know what it is, which they have ſworn to ex<g ref="char:EOLhyphen"/>tirpate, and ſo rather then they will be forſworn, they ſhould indevour in their places to root out your Miniſtery, as ſome of the <hi>brarches</hi> of the old <hi>ſtock;</hi> then it will not be ſafe for you, to <hi>ur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking of the covenant, upon any more. But you may rather <hi>re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce</hi> hat no more have taken it: for you have e<g ref="char:EOLhyphen"/>nough againſt you already if all that have taken it, did know what they have ſworn to doe; and did alſo make conſci<g ref="char:EOLhyphen"/>ence, to performe <hi>their oath.</hi> As for my part, ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take it, I ſhould judge my ſelfe bound to doe all tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ever I could, to <hi>exterpate</hi> your <hi>Miniſters;</hi> neither ſhould I think my ſelf diſcharged of my Oath, ſo long as any appearance of it did re<g ref="char:EOLhyphen"/>maine.</p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:114188:16"/>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Well, you are a very pragmaticall fellow, I am glad I have no further to goe with you, but take this at parting, that it will not be long before wee ſhall have all ſuch fellows as you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> withall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sould.</speaker>
+               <p>Then it ſeems you are ſo full, that you muſt begin, continue, and conclude, with threats: but as for mee, I will not threaten you, but I will tell you what the Lord ſaith of <hi>per<g ref="char:EOLhyphen"/>ſecutorss Pſalm.</hi> 7.15, 16. <hi>He hath made a pit and digged it, and is fal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e in the pit that he made, his miſchiefe ſhall return upon his own head, and his cruelty ſhall fall upon his own pate;</hi> but as for mee, I ſhall pray that the Lord will deliver you from your evill thoughts, and from all the evill that he hath denounced againſt <hi>perſecutors,</hi> and let me intreat you, to remember the ſaying of Chriſt, <hi>Act.</hi> 9.5. <hi>It is hard for you to kick againſt the pricks,</hi> ſo Sir, wiſhing your welfare, I ſhall take my leave of you.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>
+                  <hi>Farewell Sir.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
